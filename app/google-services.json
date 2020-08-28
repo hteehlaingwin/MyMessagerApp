@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290916318639",
+    "firebase_url": "https://mymessenger-be9de.firebaseio.com",
+    "project_id": "mymessenger-be9de",
+    "storage_bucket": "mymessenger-be9de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290916318639:android:37a3c36b76dacd3bca835a",
+        "android_client_info": {
+          "package_name": "com.kohtee.mymessengerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290916318639-jrue3ujialb0u801frerv9011c6qqm1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznqQaEM0wN8UjSvSDGwaj68s1XEsXmQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290916318639-jrue3ujialb0u801frerv9011c6qqm1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
